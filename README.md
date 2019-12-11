@@ -15,7 +15,7 @@ Running the program
 
 To run ENN-reversi using the JAR file and pretrained network:
 ```bash
-$ java -jar enn-reversi.jar dev
+$ java -jar enn-reversi.jar
 ```
 
 
