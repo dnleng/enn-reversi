@@ -4,6 +4,7 @@ ENN-reversi
 ENN-reversi is an implementation of the board game [Reversi](https://en.wikipedia.org/wiki/Reversi).
 The implementation comes with a pre-trained bot serving as a computer-opponent.
 An example of the program is shown below:
+
 ![alt text](doc/example-window.png "Example program window")
 
 A runnable JAR file can be found in the `bin/` folder.
